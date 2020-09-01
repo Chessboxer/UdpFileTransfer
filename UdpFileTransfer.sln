@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdpFileSender", "UdpFileSender\UdpFileSender.csproj", "{65ABF968-A0F8-4E77-89EB-50B6E485F5FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdpFileReciever", "UdpFileReciever\UdpFileReciever.csproj", "{99BDED26-9D44-4665-BA3A-F0D1BC817BDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65ABF968-A0F8-4E77-89EB-50B6E485F5FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65ABF968-A0F8-4E77-89EB-50B6E485F5FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65ABF968-A0F8-4E77-89EB-50B6E485F5FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65ABF968-A0F8-4E77-89EB-50B6E485F5FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99BDED26-9D44-4665-BA3A-F0D1BC817BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99BDED26-9D44-4665-BA3A-F0D1BC817BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99BDED26-9D44-4665-BA3A-F0D1BC817BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99BDED26-9D44-4665-BA3A-F0D1BC817BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C87B6E7E-A0DA-4A7B-8176-B615AFAEBD03}
+	EndGlobalSection
+EndGlobal
